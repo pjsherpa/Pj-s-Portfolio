@@ -7,7 +7,7 @@ Please note all information in readme.md is in present tense.
 This has the following in it:
 
 1. Features on what the webpage has.
-2. Html and CSS codes used make it work.
+2. Html and CSS codes.
 3. Deployment(consists of URL for Github Repository & Live URL) Screenshot provided of live URL(Ref:img1).
 4. Dimension Ipad mini image(Ref:img2).
 5. Hover features examples(Ref:img3 & img4).
