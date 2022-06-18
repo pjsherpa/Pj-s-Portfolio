@@ -57,14 +57,15 @@ Deployment: URL for GitHub Repository https://github.com/pjsherpa/Pj-s-Portfolio
 Live URL page: https://pjsherpa.github.io/Pj-s-Portfolio/
 
 For desktop large(img1):
-![Screen Shot 2022-06-18 at 12 00 28 AM](https://user-images.githubusercontent.com/105903416/174426996-4ea9c7c5-0127-472b-92a7-0b9f6dd86cf9.png)
+![Screen Shot 2022-06-18 at 12 11 09 AM](https://user-images.githubusercontent.com/105903416/174427184-7cdda24e-f993-4908-a6d4-76fdc02ab7f9.png)
+
 
 
 For desktop(img2):
 ![Screen Shot 2022-06-18 at 12 00 52 AM](https://user-images.githubusercontent.com/105903416/174427004-3a6d2d50-86d5-4acf-8608-271019e092a9.png)
 
 
-For table(img3): Dimension Ipad mini
+For tablet and mobile devices(img3):
 ![Screen Shot 2022-06-17 at 11 59 15 PM](https://user-images.githubusercontent.com/105903416/174427011-45d4fdb8-98bc-4489-ad8d-daf477cc6354.png)
 
 
