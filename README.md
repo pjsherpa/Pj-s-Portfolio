@@ -16,7 +16,7 @@ This is for employers who requires a portfolio of work samples, as to review if 
 
 Features:
 
-1. This portfolio is based upon myself and a personal photo is present. 
+1. This portfolio is based upon myself as a developer and a personal photo is present. 
 2. The header(navigation) is linked to the corresponding section besides resume where it sends to my linkedin Profile.
 3. Besides the header background image, hovering around the images on the work section will enlarge the images and the texts within it(ref:img3).
 4. Click the images to find worksamples on github.
