@@ -50,6 +50,7 @@ h1{
   position: absolute;
   height: 10px;
   margin-bottom: 15px;
+ color: chocolate;
   
  }
 
@@ -155,7 +156,7 @@ header{
 .big{
   display: flex;
   align-items: center;
-    height:350px;
+  height:350px;
   width: 872px;;
   background-image: url("image/pj\ image.jpeg");
   background-size:cover;
@@ -164,6 +165,7 @@ header{
   margin-left: 28%;
   object-fit: contain;
   justify-content:flex-end;
+ 
   
   
 }
@@ -177,11 +179,11 @@ header{
   background-image: url('image/refact4.png');
   background-size:cover;
   background-position: center;
-  padding: 10px;
   margin: 15px 12px 15px 33px;
   object-fit: contain;
   justify-content: flex-end;
-  align-items: center;
+  align-items: end;
+ 
  }
 .grid-item2 {
   display: flex;
@@ -192,11 +194,11 @@ header{
   background-image: url('image/contact\ info.png');
   background-size:cover;
   background-position: center;
-  padding: 10px;
   margin: 15px 12px 15px 33px;
   object-fit: contain;
   justify-content: flex-end;
-  align-items: center;
+  align-items: end;
+  
  }
 .grid-item3 {
   display: flex;
@@ -207,11 +209,11 @@ header{
   background-image: url('image/current.webp');
   background-size:cover;
   background-position: center;
-  padding: 10px;
   margin: 15px 12px 15px 33px;
   object-fit: contain;
   justify-content: flex-end;
-  align-items: center;
+  align-items: end;
+  
 }
 
 .grid-item4 {
@@ -223,15 +225,15 @@ header{
   background-image: url('image/coder3.jpeg');
   background-size:cover;
   background-position: center;
-  padding: 10px;
   margin: 15px 12px 15px 33px;
   justify-content: flex-end;
-  align-items: center;
+  align-items: end;
+ 
  }
 
  span{
   border: 10px 10px blue;
-  background-color:var(--snow);
+  background-color:white;
   padding: 5%;
   display: flex;
   justify-content: end;
@@ -260,14 +262,14 @@ header{
   transform: scale(1);
  }
  :hover.grid-item3{
-  box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px black;
+  box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px var(--dark);
   color:var(--dark);
   font-size: large;
   font-weight: bolder;
   transform: scale(1.2);
  }
  :hover.grid-item4{
-  box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px black;
+  box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px var(--dark);
   color:var(--dark);
   font-size: large;
   font-weight: bolder;
