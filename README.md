@@ -64,7 +64,8 @@ For desktop large(img1):
 
 
 For desktop(img2):
-![Screen Shot 2022-06-18 at 3 00 20 PM](https://user-images.githubusercontent.com/105903416/174458342-e265945d-8073-400b-9353-58daf7998587.png)
+![Screen Shot 2022-06-18 at 3 05 34 PM](https://user-images.githubusercontent.com/105903416/174458490-6089f4f1-c13d-4d53-b6cf-03af59b525ec.png)
+
 
 
 
