@@ -8,9 +8,9 @@ This has the following in it:
 
 1. Features on what the webpage has.
 2. Html and CSS codes.
-3. Deployment(consists of URL for Github Repository & Live URL) Screenshot provided of live URL(Ref:img1).
-4. Dimension Ipad mini image(Ref:img2).
-5. Hover features examples(Ref:img3 & img4).
+3. Deployment(consists of URL for Github Repository & Live URL). 
+4. Screenshot provided of live URL Large desktop 992px & above (Ref:img1). Desktop 992px & below(Ref:img2) .Dimension Ipad mini image 768px below(Ref:img3).
+5. Hover features examples(Ref:img4 & img5).
 
 This is for employers who requires a portfolio of work samples, as to review if it meets their standards for employment.
 
@@ -53,17 +53,22 @@ Deployment: URL for GitHub Repository https://github.com/pjsherpa/Pj-s-Portfolio
 
 Live URL page: https://pjsherpa.github.io/Pj-s-Portfolio/
 
-For desktop(img1):
-![Screen Shot 2022-06-17 at 9 06 29 PM](https://user-images.githubusercontent.com/105903416/174422170-8d359ac2-7b08-436b-b35f-632b080f96d8.png)
-For tablets:
+For desktop large(img1):
+![Screen Shot 2022-06-18 at 12 00 28 AM](https://user-images.githubusercontent.com/105903416/174426996-4ea9c7c5-0127-472b-92a7-0b9f6dd86cf9.png)
 
-For table(img2): Dimension Ipad mini
-![Screen Shot 2022-06-17 at 9 08 37 PM](https://user-images.githubusercontent.com/105903416/174422244-9e1cce38-2a9f-4264-bbc5-071f461c60c7.png)
+
+For desktop(img2):
+![Screen Shot 2022-06-18 at 12 00 52 AM](https://user-images.githubusercontent.com/105903416/174427004-3a6d2d50-86d5-4acf-8608-271019e092a9.png)
+
+
+For table(img3): Dimension Ipad mini
+![Screen Shot 2022-06-17 at 11 59 15 PM](https://user-images.githubusercontent.com/105903416/174427011-45d4fdb8-98bc-4489-ad8d-daf477cc6354.png)
+
 
 Hover feature examples:
-(img3) ![Screen Shot 2022-06-17 at 9 13 51 PM](https://user-images.githubusercontent.com/105903416/174422480-f2d6cca2-b3de-4914-95a7-b5504a715f14.png)
+(img4) ![Screen Shot 2022-06-17 at 9 13 51 PM](https://user-images.githubusercontent.com/105903416/174422480-f2d6cca2-b3de-4914-95a7-b5504a715f14.png)
 
-(img4) ![Screen Shot 2022-06-17 at 9 14 30 PM](https://user-images.githubusercontent.com/105903416/174422485-34c6509d-dc4c-4b04-87aa-794ac05a54d8.png)
+(img5) ![Screen Shot 2022-06-17 at 9 14 30 PM](https://user-images.githubusercontent.com/105903416/174422485-34c6509d-dc4c-4b04-87aa-794ac05a54d8.png)
 
 
 
