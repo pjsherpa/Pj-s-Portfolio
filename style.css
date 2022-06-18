@@ -259,7 +259,7 @@ header{
   color:var(--dark);
   font-size: large;
   font-weight: bolder;
-  transform: scale(1);
+  transform: scale(1.2);
  }
  :hover.grid-item3{
   box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px var(--dark);
