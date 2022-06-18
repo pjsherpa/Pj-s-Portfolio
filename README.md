@@ -9,6 +9,7 @@ This has the following in it:
 2.Html and CSS codes used make it work.
 3.Deployment(consists of URL for Github Repository & Live URL) Screenshot provided of live URL(Ref:img1).
 4.Dimension Ipad mini image(Ref:img2).
+5.Hover features examples(Ref:img3 & img4).
 
 This is for employers who requires a portfolio of work samples, as to review if it meets their standards for employment.
 
@@ -16,7 +17,7 @@ Features:
 
 1. This portfolio is based upon myself and a personal photo is present. 
 2. The header(navigation) is linked to the corresponding section besides resume where it sends to my linkedin Profile.
-3. Besides the header background image, hovering around the images on the work section will enlarge the images and the texts within it
+3. Besides the header background image, hovering around the images on the work section will enlarge the images and the texts within it(ref:img3).
 4. Click the images to find worksamples on github.
 5. Resize the page or view the site on various screens and devices with a responsive layout that adapts to viewport.
 6. The file consists of index.html,style.css,reset.css and Readme.md.
@@ -44,8 +45,8 @@ CSS:
 4. Paragraph, and evertything within class grid.container moved to left
 5. Creating our main grid with flexbox for all 5 works. Setup with background images for all of them. 
 6. Class grid-container are all set on flex-wrap so they will know when to wrap or not.
-7. Hover effect for enlargning images text within images as well,shadows and color change from green to black for element a.
-8. Media query for larger screens,smaller screen and mobile devices.
+7. Hover effect for enlargning images text within images as well,shadows(Ref:img3) and color change from green to black for element a(Ref:img4).
+8. Media query for larger screens,smaller screen and mobile devices(Ref img:1 & img:2).
 
 Deployment: URL for GitHub Repository https://github.com/pjsherpa/Pj-s-Portfolio
 
@@ -57,6 +58,11 @@ For tablets:
 
 For table(img2): Dimension Ipad mini
 ![Screen Shot 2022-06-17 at 9 08 37 PM](https://user-images.githubusercontent.com/105903416/174422244-9e1cce38-2a9f-4264-bbc5-071f461c60c7.png)
+
+Hover feature examples:
+(img3) ![Screen Shot 2022-06-17 at 9 13 51 PM](https://user-images.githubusercontent.com/105903416/174422480-f2d6cca2-b3de-4914-95a7-b5504a715f14.png)
+
+(img4) ![Screen Shot 2022-06-17 at 9 14 30 PM](https://user-images.githubusercontent.com/105903416/174422485-34c6509d-dc4c-4b04-87aa-794ac05a54d8.png)
 
 
 
