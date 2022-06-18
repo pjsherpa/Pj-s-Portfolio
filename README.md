@@ -12,7 +12,7 @@ This has the following in it:
 4. Screenshot provided of live URL Large desktop 992px & above (Ref:img1). Desktop 992px & below(Ref:img2) .Dimension Ipad mini image 768px below(Ref:img3).
 5. Hover features examples(Ref:img4 & img5).
 
-This is for employers who requires a portfolio of work samples from a developer so they can review to check if the developer meets their standards for employment.
+This is for employers who requires a portfolio of work samples from a developer so they can review to check if the developer meets their requirments for employment.
 
 Features:
 
@@ -20,7 +20,7 @@ Features:
 2. The header(navigation) is linked to the corresponding section within the webpage, besides resume where it sends to my linkedin Profile.
 3. Besides the header background image, hovering around the images on the work section will enlarge the images and the texts within it(ref:img4).Hover is also present on the navigation bar(ref:img5).
 4. Click the images to find worksamples done on github.
-5. Resize the page or view the site on various screens and devices with a responsive layout that adapts to viewport.
+5. Resize the page or view the site on various screens and devices with a responsive layout that adapts to viewport(ref:img1-3).
 6. The file consists of index.html,style.css,reset.css,images and Readme.md.
 7. Application is deployed at live URL with no errors.
 
@@ -59,25 +59,27 @@ Live URL page: https://pjsherpa.github.io/Pj-s-Portfolio/
 
 Screenshots:
 
-For desktop large(img1):
-![Screen Shot 2022-06-18 at 3 02 35 PM](https://user-images.githubusercontent.com/105903416/174458336-aefeb14a-499c-4d16-9e12-908f9dccb495.png)
-
-
-For desktop(img2):
-![Screen Shot 2022-06-18 at 3 05 34 PM](https://user-images.githubusercontent.com/105903416/174458490-6089f4f1-c13d-4d53-b6cf-03af59b525ec.png)
+For desktop large(img1) the 4 boxes are in a column:
+![Screen Shot 2022-06-18 at 4 31 22 PM](https://user-images.githubusercontent.com/105903416/174460135-dd6f0ba1-49d4-44ca-a7a0-6061e31bb586.png)
 
 
 
+For desktop(img2) the 4 boxes are now 2 rows and 2 columns:
+![Screen Shot 2022-06-18 at 4 31 53 PM](https://user-images.githubusercontent.com/105903416/174460193-1f85d894-3713-48bd-8e29-632a12dbb425.png)
 
 
-For tablet and mobile devices(img3):
-![Screen Shot 2022-06-18 at 3 01 35 PM](https://user-images.githubusercontent.com/105903416/174458344-d7fb6b05-cf2d-46a1-8d3b-67a5661b6e27.png)
+
+
+
+For tablet and mobile devices(img3) the 4 boxes are now one row:
+![Screen Shot 2022-06-18 at 4 32 32 PM](https://user-images.githubusercontent.com/105903416/174460201-3e544ad0-a40b-4244-9171-11897cdd5a83.png)
 
 
 
 
 Hover feature examples(img4):
-![Screen Shot 2022-06-18 at 12 22 19 AM](https://user-images.githubusercontent.com/105903416/174427631-82421a8f-4e7c-43f5-9baf-043204253cbd.png)
+![Screen Shot 2022-06-18 at 4 32 08 PM](https://user-images.githubusercontent.com/105903416/174460204-0b722ce4-ecd2-4d02-b798-e5f687e95c26.png)
+
  
  
 
