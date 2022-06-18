@@ -22,6 +22,7 @@ Features:
 4. Click the images to find worksamples on github.
 5. Resize the page or view the site on various screens and devices with a responsive layout that adapts to viewport.
 6. The file consists of index.html,style.css,reset.css and Readme.md.
+7. Application is deployed at live URL with no errors.
 
 HTML:
 
