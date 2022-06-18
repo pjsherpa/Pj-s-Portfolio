@@ -141,7 +141,7 @@ header{
   margin-top: 3%;  
  }
 
-/* creating our main grid with flexbox for all 5 works done with background images for all of them. These are all set on flex-wrap so they will know when to wrap or not */
+/* creating our main grid with flexbox for all 5 works. Done with background images for all of them. These are all set on flex-wrap so they will know when to wrap or not */
 
 .grid-container{
   display: flex;
@@ -227,7 +227,7 @@ header{
   justify-content: flex-end;
   align-items: center;
  }
-/* created an outer and inner drop shadow on the card to create a shadow effect on hover */
+/* created an outer and inner drop shadow on the card to create a shadow effect on hover and transform for enlargment */
  :hover.big{
   box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px black;
   color:var(black);
