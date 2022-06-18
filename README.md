@@ -33,10 +33,12 @@ HTML:
 6. Create article element to give a brief on who the developer is.
 7. After article, section setup includes all previous work on github.
 8. Footer setup has my contact details with working links besides phone no.
+9. Comments are present.
 
 Reset CSS:
 1. reset.css copy of http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126.
+2.Comment is present.
 
 CSS:
 
@@ -48,6 +50,7 @@ CSS:
 6. Class grid-container are all set on flex-wrap so they will know when to wrap or not.
 7. Hover effect for enlargning images text within images as well,shadows(Ref:img3) and color change from green to black for element a(Ref:img4).
 8. Media query for larger screens,smaller screen and mobile devices(Ref img:1 & img:2).
+9. Comments are present.
 
 Deployment: URL for GitHub Repository https://github.com/pjsherpa/Pj-s-Portfolio
 
