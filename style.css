@@ -3,6 +3,7 @@
 --snow:#e6e8e8;
 --nature:green;
 --dark:black;
+--sky:lightskyblue;
 --width:518px
  }
 
@@ -17,16 +18,18 @@
  }
 
  /* background design for h1 */
- .name{
-  background-color:brown;
+ i{
+  border: 2.5px solid var(--sky);
+  background-color:var(--sky);
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
   margin-left: -15%;
   padding: 7px;
-  color:var(--snow);
+  color:var(--dark);
   position: relative;
   margin-top: -5%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
 /* This class is created to move the headers on the left side of the page */
@@ -92,7 +95,7 @@ header{
 
  li{
  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
- font-weight: bolder;
+ font-weight: bold;
  font-size: large;
  }
 
@@ -148,6 +151,8 @@ header{
   margin-left: 15.5%;
   object-fit: contain;
   justify-content:flex-end;
+  border: 5px solid var(--sky);
+  
 }
 
 /* Besides backgroundimage all other codes has been consolidated below */
@@ -163,6 +168,7 @@ header{
   object-fit: contain;
   justify-content: flex-end;
   align-items: end;
+  border: 5px solid var(--sky);
 }
 
 .grid-item1 {
@@ -180,9 +186,8 @@ header{
    }
 
  span{
-  border: 10px 10px blue;
-  background-color:white;
-  padding: 5%;
+  background-color:var(--sky);
+  padding: 3%;
   display: flex;
   justify-content: end;
   align-items: flex-end; 
