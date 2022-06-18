@@ -3,6 +3,7 @@
 :root{
 --snow:#e6e8e8;
 --green:green;
+--dark:black;
  }
 
  /* created line height */
@@ -227,45 +228,54 @@ header{
   justify-content: flex-end;
   align-items: center;
  }
+
+ span{
+  border: 10px 10px blue;
+  background-color:var(--snow);
+  padding: 5%;
+  display: flex;
+  justify-content: end;
+  align-items: flex-end;
+ }
 /* created an outer and inner drop shadow on the card to create a shadow effect on hover and transform for enlargment */
  :hover.big{
-  box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px black;
-  color:var(black);
-  font-size: xx-large;
+  box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px var(--dark);
+  color:var(--dark);
+  font-size: large;
   font-weight: bolder;
   transform: scale(1.2);
    }
  :hover.grid-item1{
-  box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px black;
-  color: black;
-  font-size: xx-large;
+  box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px var(--dark);
+  color: var(--dark);
+  font-size: large;
   font-weight:bolder;
   transform: scale(1.2);
  }
  :hover.grid-item2{
-  box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px black;
-  color:var(black);
-  font-size: xx-large;
+  box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px var(--dark);
+  color:var(--dark);
+  font-size: large;
   font-weight: bolder;
-  transform: scale(1.2);
+  transform: scale(1);
  }
  :hover.grid-item3{
   box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px black;
-  color:black;
-  font-size: xx-large;
+  color:var(--dark);
+  font-size: large;
   font-weight: bolder;
   transform: scale(1.2);
  }
  :hover.grid-item4{
   box-shadow: inset 0px 0px 15px var(--snow), 0 0 45px black;
-  color:var(black);
-  font-size: xx-large;
+  color:var(--dark);
+  font-size: large;
   font-weight: bolder;
   transform: scale(1.2);
  }
 /* set anchor color to black effect on hover */
 a:hover{
-  color:black;
+  color:var(--dark)
    }
 
 /* media query for larger screens */
