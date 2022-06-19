@@ -39,7 +39,7 @@ HTML:
 Reset CSS:
 1. reset.css copy of http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126.
-2.Comment is present reset.css.
+2. Comment is present reset.css.
 
 CSS:
 
