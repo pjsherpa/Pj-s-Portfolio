@@ -16,13 +16,13 @@ This is for employers who requires a portfolio of work samples from a developer 
 
 Features:
 
-1. This portfolio is based upon myself as a developer and a personal photo ofmyself is present. 
-2. The header(navigation) is linked to the corresponding section within the webpage, besides resume where it sends to my linkedin Profile.
+1. This portfolio is based upon myself as a developer and a personal photo of myself is present. 
+2. The header(navigation) is linked to the corresponding section within the webpage, besides 'resume' where it sends to my linkedin profile.
 3. Besides the header background image, hovering around the images on the work section will enlarge the images and the texts within it(ref:img4).Hover is also present on the navigation bar(ref:img5).
-4. Click the images to find worksamples done on github.
+4. Click the images to find worksamples done on github and one page created on github.
 5. Resize the page or view the site on various screens and devices with a responsive layout that adapts to viewport(ref:img1-3).
 6. The file consists of index.html,style.css,reset.css,images and Readme.md.
-7. Application is deployed at live URL with no errors.
+7. Application is deployed at live URL with no errors(Ref:img1).
 
 HTML:
 
