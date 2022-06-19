@@ -169,7 +169,7 @@ header{
   justify-content: flex-end;
   align-items: end;
   border: 5px solid var(--sky);
-  position: relative;
+  
 }
 
 .grid-item1 {
