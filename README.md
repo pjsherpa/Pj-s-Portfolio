@@ -18,19 +18,20 @@ Features:
 
 1. This portfolio is based upon myself as a developer and a personal photo of myself is present. 
 2. The header(navigation) is linked to the corresponding section within the webpage, besides 'resume' where it sends to my linkedin profile.
-3. Besides the header background image, hovering around the images on the work section will enlarge the images and the texts within it(ref:img4).Hover is also present on the navigation bar(ref:img5).
-4. Click the images to find worksamples done on github and one page created on github.
+3. Besides the header background image, hovering around the images on the work section will enlarge the images and the texts within it(ref:img4).Hover is also present on the navigation bar where the color of font changes from green to black(ref:img5).
+4. Click the images to find worksamples done on github and one page created on github. The images picked here are suppose to give out a sense of meaning to what the work is going to be about.
 5. Resize the page or view the site on various screens and devices with a responsive layout that adapts to viewport(ref:img1-3).
 6. The file consists of index.html,style.css,reset.css,images and Readme.md.
 7. Application is deployed at live URL with no errors(Ref:img1).
+
 
 HTML:
 
 1. The following is present in Html Semantic Elements.
 2. Title name is Pj's Portfolio.
 3. Link for both reset.css and style.css are setup.
-4. All working links setup on Nav which is inside header for corresponding sections.
-5. Personal backgroundimage for webpage from personal archive for header image.
+4. All working links setup on Nav which is inside header.
+5. Personal backgroundimage for webpage from personal archive for header background image.
 6. Create article element to give a brief on who the developer is.
 7. After article, section setup includes all previous work on github.
 8. Footer setup has my contact details with working links besides phone no.
