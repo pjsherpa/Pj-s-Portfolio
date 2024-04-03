@@ -54,10 +54,6 @@ CSS:
 8. Media query for larger screens,smaller screen and mobile devices(Ref img:1, img:2 & img:3).
 9. Comments are present in style.css.
 
-Deployment: URL for GitHub Repository https://github.com/pjsherpa/Pj-s-Portfolio
-
-Live URL page: https://pjsherpa.github.io/Pj-s-Portfolio/
-
 Screenshots:
 
 For desktop large(img1) the 4 boxes are in a column:
